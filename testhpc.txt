@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "cry cry cry2"
